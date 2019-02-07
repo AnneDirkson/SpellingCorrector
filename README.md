@@ -1,7 +1,8 @@
 # SpellingCorrector
 
 --author -- AR Dirkson 
---date -- 5-2-2019 
+-- date -- 5-2-2019 
+-- python 3 script
 
 This script is a spelling correction module that uses unsupervised data to construct a list of candidates. The correction algorithm is a weighted Levenshtein distance algorithm. A decision process is used to determine if a word is a spelling mistake.
 
